@@ -3,7 +3,7 @@
 <div id="header">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFjZmRlNzYxOGFjNmM0NjA1YTg4MWFkYWJiYTJiYmRlYzQxODM1MiZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/beladactions">
+  <a href="https://www.linkedin.com/in/beladactions/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@beladactions/featured">
@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=beladactions&style=flat-square&color=blue" alt=""/>
   
  <h1>
-   Hi there 👋, </br>
+   Hi there 👋,</br>
    I am Beloved with the superpowers, supercool, right....? 
  </h1>
   
