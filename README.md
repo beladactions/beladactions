@@ -1,6 +1,6 @@
 
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFjZmRlNzYxOGFjNmM0NjA1YTg4MWFkYWJiYTJiYmRlYzQxODM1MiZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/beladactions/)">
