@@ -17,7 +17,8 @@
 <img src="https://komarev.com/ghpvc/?username=beladactions&style=flat-square&color=blue" alt=""/>
   
  <h1>
-     Hi there 👋, I am Beloved with the superpowers, supercool, right....? 
+   Hi there 👋, </br>
+   I am Beloved with the superpowers, supercool, right....? 
  </h1>
   
   ### :hammer_and_wrench: Languages and Tools :
